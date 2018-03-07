@@ -1,0 +1,27 @@
+{
+  "name": "etherwallet",
+  "description": "a lightweight etherwallet with command line",
+  "version": "0.0.1",
+  "author": "Yang Mingjun",
+  "keywords": [
+    "ether",
+    "etherwallet",
+    "node.js",
+    "javascript"
+  ],
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yangmingjun/etherwallet.git"
+  },
+  "license": "MIT",
+  "config": {},
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "ethereumjs-util": "latest",
+    "ethereumjs-tx": "latest",
+    "ethereumjs-wallet": "latest"
+  }
+}
