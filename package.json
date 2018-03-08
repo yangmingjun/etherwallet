@@ -20,7 +20,10 @@
     "start": "node main.js"
   },
   "dependencies": {
+    "sync-request": "latest",
+    "colors": "latest",
     "ethereumjs-util": "latest",
+    "ethereumjs-units": "latest",
     "ethereumjs-tx": "latest",
     "ethereumjs-wallet": "latest"
   }
