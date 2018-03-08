@@ -5,4 +5,4 @@ a lightweight etherwallet with command line
 # How to use
 安装: npm install
 
-使用: node .
+运行: node .
